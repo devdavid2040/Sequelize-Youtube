@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "mysql2": "^2.2.5",
+    "nodemon": "^2.0.13",
     "pg": "^8.7.1",
     "postgres": "^1.0.2",
     "sequelize": "^6.6.5"
